@@ -1,0 +1,14 @@
+[caps]
+deviceName = "Nexus"
+platformName = "Android"
+appActivity = ".Settings"
+appPackage = "com.android.settings"
+app = (File.join(File.dirname(__FILE__), "app-debug.apk")),
+browserName: '',
+version: '4.2',
+package: '',
+appActivity: '',
+newCommandTimeout: "3600",
+appium_lib: { wait: 20,
+debug: false
+

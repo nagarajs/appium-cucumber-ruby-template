@@ -1,0 +1,6 @@
+[caps]
+deviceName = "iPhone 7"
+platformName = "ios"
+platformVersion = "10.3"
+automationName = "XCUITest"
+app = "/Users/rootuser/Documents/appium_frameworks/node_modules/ios-uicatalog/build/Release-iphonesimulator/UICatalog-iphonesimulator.app"
